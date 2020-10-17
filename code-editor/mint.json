@@ -1,0 +1,36 @@
+{
+  "name": "code-editor",
+  "application": {
+    "head": "assets/head.html",
+    "title": "made it with mruby"
+  },
+  "source-directories": [
+    "source"
+  ],
+  "test-directories": [
+    "tests"
+  ],
+  "external":{
+    "javascripts":[
+      "assets/js/codemirror.min.js",
+      "assets/js/ruby.min.js",
+      "assets/js/sweetalert.min.js",
+      "assets/js/webfont.js",
+      "assets/js/mfb.min.js",
+      "assets/js/modernizr.touch.js",
+      "assets/js/mruby.js",
+      "assets/js/xterm.min.js",
+      "assets/js/fit.min.js"
+    ],
+    "stylesheets":[
+      "assets/css/codemirror.min.css",
+      "assets/css/dracula.min.css",
+      "assets/css/app.css",
+      "assets/css/mfb.min.css",
+      "assets/css/fontawesome.min.css",
+      "assets/css/xterm.min.css",
+      "assets/css/bulma.min.css",
+      "assets/css/normalize.min.css"
+    ]
+  }
+}

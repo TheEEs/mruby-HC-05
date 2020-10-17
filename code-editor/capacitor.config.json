@@ -1,0 +1,13 @@
+{
+  "appId": "mruby.editor.app",
+  "appName": "mruby",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500
+    }
+  },
+  "cordova": {}
+}

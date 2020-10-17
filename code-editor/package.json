@@ -1,0 +1,20 @@
+{
+  "name": "mruby-android",
+  "version": "1.0.0",
+  "description": "program your arduino via Bluetooth with mruby",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheEEs",
+  "license": "MIT",
+  "dependencies": {
+    "@capacitor/android": "^2.4.2",
+    "@capacitor/cli": "^2.4.2",
+    "@capacitor/core": "^2.4.2",
+    "cordova-plugin-bluetooth-serial": "^0.4.7"
+  }
+}

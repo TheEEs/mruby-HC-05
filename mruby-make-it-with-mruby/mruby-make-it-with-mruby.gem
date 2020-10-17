@@ -1,0 +1,7 @@
+name: mruby-make-it-with-mruby
+description: MIWMrb class
+author: TheEEs
+website: https://github.com/TheEEs/mruby-make-it-with-mruby
+protocol: git
+repository: https://github.com/TheEEs/mruby-make-it-with-mruby.git
+license: MIT

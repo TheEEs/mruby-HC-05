@@ -1,0 +1,11 @@
+language: c
+
+jobs:
+  - os: linux
+  - os: osx
+
+env:
+  - MRUBY_CONFIG=travis_config.rb
+
+script:
+  - rake -m && rake test

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">mruby</string>
+    <string name="title_activity_main">mruby</string>
+    <string name="package_name">mruby.editor.app</string>
+    <string name="custom_url_scheme">mruby.editor.app</string>
+</resources>

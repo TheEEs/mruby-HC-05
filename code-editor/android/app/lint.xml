@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="MissingDefaultResource">
+        <ignore path="src/main/res/drawable-port-xxhdpi/spash.png" />
+    </issue>
+</lint>
